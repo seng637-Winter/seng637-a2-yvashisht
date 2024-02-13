@@ -12,7 +12,7 @@
 
 # 1 Introduction
 
-Text…
+For Lab 2, our group was tasked with learning the fundamentals of automated unit testing through black box testing of JFreeChart in Java. Utilizing JUnit, we developed tests based on specific unit requirements, integrating mock objects to simulate real-world scenarios. Our group worked collaboratively to navigate the complexities of testing, with a focus on the practical application of theory to enhance software reliability and quality. The SENG-637 notes from Week 3 and Week 4 were used throughout the lab to guide our group. This report outlines our testing strategy, the test cases we developed, our collaborative process, the challenges we encountered, and our reflections on the lab exercise.
 
 # 2 Detailed description of unit test strategy
 
