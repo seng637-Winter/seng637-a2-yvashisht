@@ -2,7 +2,7 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#: 1 |                          |
+| Group \#   | 1                         |
 | ---------| --------------------------- |
 | Student 1 | Clark Harrison Dy          |   
 | Student 2 | Nick Nikolov               |   
