@@ -2,13 +2,13 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#: 1 |                        |
-| ---------| ------------------------- |
-| Student 1 Clark Harrison Dy          |   
-| Student 2 Nick Nikolov               |   
-| Student 3 Romil Dhagat               |   
-| Student 4 Yene Irvine                |   
-| Student 5 Yajur Vashisht             |
+| Group \#: 1 |                          |
+| ---------| --------------------------- |
+| Student 1 | Clark Harrison Dy          |   
+| Student 2 | Nick Nikolov               |   
+| Student 3 | Romil Dhagat               |   
+| Student 4 | Yene Irvine                |   
+| Student 5 | Yajur Vashisht             |
 
 # 1 Introduction
 
