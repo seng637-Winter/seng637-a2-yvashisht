@@ -8,7 +8,7 @@
 | Student 2 Nick Nikolov               |   
 | Student 3 Romil Dhagat               |   
 | Student 4 Yene Irvine                |   
-| Student 5 Yajurt Vashist             |
+| Student 5 Yajur Vashisht             |
 
 # 1 Introduction
 
